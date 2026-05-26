@@ -114,6 +114,7 @@ Projeto voltado para:
 - React
 - Mobile com Expo
 - Inteligência Artificial aplicada
+- Estudante de ADS no 1 semestre
 
 ---
 
