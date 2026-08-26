@@ -80,6 +80,40 @@ Conceitos aplicados:
 * **Fundamentos do Suporte Técnico — Google**
   Formação introdutória em suporte de TI, hardware, sistemas operacionais, redes e diagnóstico técnico.
 
+
+## 🏅 Badges e participação AWS
+
+<p align="center">
+  <a href="https://www.credly.com/badges/163d1bb2-d7f6-4d33-8d44-92dba03e73ff/public_url">
+    <img src="assets/badges/aws-educate-storage.png" width="140" alt="AWS Educate Getting Started with Storage">
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/35032bd4-d155-4b30-8779-55abdfc6a6cc/public_url">
+    <img src="assets/badges/aws-educate-cloud-101.png" width="140" alt="AWS Educate Introduction to Cloud 101">
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/0987c815-7003-4003-b134-d24d770eb7dc/public_url">
+    <img src="assets/badges/aws-cloud-quest-practitioner.png" width="140" alt="AWS Cloud Quest Cloud Practitioner">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Badges de treinamento verificáveis emitidas pela AWS Training and Certification.</strong>
+</p>
+
+### AWS Educate Emerging Talent Community
+
+<p align="center">
+  <img src="assets/badges/aws-educate-emerging-talent-community.png" width="180" alt="AWS Educate Emerging Talent Community Member">
+</p>
+
+<p align="center">
+  Membro da AWS Educate Emerging Talent Community.
+</p>
+
+
+
+
 ## 📚 O que estou estudando
 
 * AWS re/Start — Cloud, Linux, redes, segurança e Python
