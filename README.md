@@ -2,36 +2,27 @@
 
 Estudante de **desenvolvimento Backend com Python**, **AWS Cloud** e **engenharia de aplicações com inteligência artificial (AI Application Engineering)**. Estou construindo minha base em Engenharia de Software por meio de estudos, laboratórios e projetos próprios, com atenção a arquitetura, testes, segurança e documentação.
 
-Tenho experiência prática com **manutenção e diagnóstico de computadores** e estou em transição profissional para desenvolvimento de software. Meu objetivo é evoluir na construção de **APIs, integrações e aplicações que utilizam modelos de IA**, mantendo Cloud e DevOps como competências complementares.
+Meu foco atual é desenvolver fundamentos sólidos em **Python, APIs, arquitetura de software e AWS**, avançando gradualmente para aplicações que integram modelos de IA. Registro minha evolução por meio de estudos, laboratórios e projetos.
 
 ## 🎯 Objetivo profissional
 
-Busco minha primeira oportunidade em desenvolvimento **Backend Python / APIs** ou em uma função júnior compatível com minha experiência, enquanto me preparo progressivamente para atuar com **AI Application Engineering**.
+Estou me preparando para minha primeira oportunidade em **Backend Python / desenvolvimento de APIs**, com interesse em evoluir para **AI Application Engineering**.
 
 Meu foco é aprender a projetar, implementar, testar e operar aplicações: compreender o código e as decisões técnicas, inclusive quando utilizo assistentes de IA durante o desenvolvimento.
-
-## 🛠️ Experiência prática
-
-- **Suporte e manutenção de computadores (desde 2024):** montagem, diagnóstico, limpeza preventiva, instalação de sistemas e drivers, backup e troubleshooting de hardware e software.
-- **Backend e automação (em aprendizagem):** Python, APIs HTTP/REST, validação de dados, testes, Git e documentação.
-- **AWS e infraestrutura:** laboratórios de serviços AWS, Linux, redes, identidade e acesso, monitoramento e fundamentos de custos.
-- **Desenvolvimento assistido por IA:** estudo e uso de ferramentas como Codex, Copilot e Antigravity para planejamento, implementação, revisão e documentação, com validação humana.
 
 ## 🚀 Projetos em destaque
 
 ### [AWS Cost Monitor — FinOps com IA](https://github.com/AirtonNettu/aws-cost-monitor)
 
-Projeto em Python para coletar e analisar custos de serviços AWS com Boto3. A proposta separa o **cálculo determinístico dos custos** da **interpretação assistida por IA**, explorando automação, FinOps e geração de relatórios. Projeto em evolução.
+Laboratório em evolução para estudar **Python, Boto3, custos AWS e relatórios**, com proposta de análise determinística e interpretação assistida por IA.
 
 ### [Local-to-Cloud Diagnostic Gateway](https://github.com/AirtonNettu/Local-to-Cloud-Diagnostic-Gateway)
 
-Projeto de diagnóstico e sincronização entre ambiente local e nuvem: coleta local, armazenamento e integração com serviços AWS, com dashboard web. Explora APIs, arquitetura de integração, sincronização e operação em nuvem. Projeto em evolução.
+Laboratório em evolução sobre **diagnóstico local, APIs, sincronização de dados e integração com serviços AWS**.
 
 ### [Estudos de Python](https://github.com/AirtonNettu/python-freecodecamp)
 
 Exercícios e estudos de fundamentos de Python, lógica de programação e resolução de problemas.
-
-> Outros projetos e laboratórios estão em desenvolvimento ou revisão e serão destacados quando estiverem prontos para apresentação pública.
 
 ## 🧰 Tecnologias e áreas de estudo
 
@@ -80,7 +71,7 @@ Exercícios e estudos de fundamentos de Python, lógica de programação e resol
 Também sou membro da **AWS Educate Emerging Talent Community**.
 
 
-## 📌 Estudos atuais
+## 📌 O que estou estudando agora
 
 - Consolidação de fundamentos de **Python e desenvolvimento Backend**;
 - Preparação para a **AWS Certified Cloud Practitioner**;
