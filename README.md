@@ -1,48 +1,71 @@
-# Olá, sou José Airton 👋
+# José Airton | Backend Python · AI Engineering · AWS
 
-Estudante de **desenvolvimento Backend com Python**, **AWS Cloud** e **engenharia de aplicações com inteligência artificial (AI Application Engineering)**. Estou construindo minha base em Engenharia de Software por meio de estudos, laboratórios e projetos próprios, com atenção a arquitetura, testes, segurança e documentação.
+**Construindo aplicações, integrações e experiências de aprendizado com engenharia de software, cloud e inteligência artificial.**
 
-Meu foco atual é desenvolver fundamentos sólidos em **Python, APIs, arquitetura de software e AWS**, avançando gradualmente para aplicações que integram modelos de IA. Registro minha evolução por meio de estudos, laboratórios e projetos.
+Sou desenvolvedor em formação, com foco em **Backend Python e APIs**, integração de modelos de IA e serviços AWS. Transformo meus estudos em projetos documentados, explorando arquitetura, testes, segurança, automação e decisões técnicas.
 
-## 🎯 Objetivo profissional
+Busco minha primeira oportunidade profissional em desenvolvimento Backend e sigo aprofundando minha atuação em **AI Application Engineering**.
 
-Estou me preparando para minha primeira oportunidade em **Backend Python / desenvolvimento de APIs**, com interesse em evoluir para **AI Application Engineering**.
+[**Portfólio**](https://portfolio-airton-netto.pages.dev/) · [**LinkedIn**](https://www.linkedin.com/in/jose-airton-cloud) · [**Projetos no GitHub**](https://github.com/AirtonNettu?tab=repositories)
 
-Meu foco é aprender a projetar, implementar, testar e operar aplicações: compreender o código e as decisões técnicas, inclusive quando utilizo assistentes de IA durante o desenvolvimento.
+---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### [AWS Cost Monitor — FinOps com IA](https://github.com/AirtonNettu/aws-cost-monitor)
+### 🧠 [IA Engineer Academy](https://github.com/AirtonNettu/ai-engineering-academy-) · Open source
 
-Laboratório em evolução para estudar **Python, Boto3, custos AWS e relatórios**, com proposta de análise determinística e interpretação assistida por IA.
+**[Acessar a plataforma](https://ai-engineering-academy-3cy.pages.dev/)**
 
-### [Local-to-Cloud Diagnostic Gateway](https://github.com/AirtonNettu/Local-to-Cloud-Diagnostic-Gateway)
+Plataforma educacional gratuita, aberta e em português para estudar **Engenharia de Inteligência Artificial** — da teoria e dos artigos técnicos à arquitetura e aos experimentos executáveis.
 
-Laboratório em evolução sobre **diagnóstico local, APIs, sincronização de dados e integração com serviços AWS**.
+- **15 capítulos** em diferentes níveis de aprofundamento, trilhas de estudo e glossário interligado.
+- **Laboratórios interativos com cálculos reais no navegador:** treinamento de rede neural XOR, mecanismo de atenção e similaridade de embeddings.
+- **45 flashcards** com revisão espaçada, quatro roadmaps profissionais e cinco diagramas de arquitetura interativos.
+- Interface responsiva, temas claro/escuro e progresso armazenado localmente, sem cadastro.
+- **Engenharia:** React, TypeScript, Vite, testes com Vitest e Playwright, validação editorial e GitHub Actions.
 
-### [Estudos de Python](https://github.com/AirtonNettu/python-freecodecamp)
+**Código aberto para estudo e contribuição:** [repositório](https://github.com/AirtonNettu/ai-engineering-academy-) · [guia de contribuição](https://github.com/AirtonNettu/ai-engineering-academy-/blob/main/CONTRIBUTING.md)
 
-Exercícios e estudos de fundamentos de Python, lógica de programação e resolução de problemas.
+### ☁️ [AWS Cost Monitor — FinOps com IA](https://github.com/AirtonNettu/aws-cost-monitor)
 
-## 🧰 Tecnologias e áreas de estudo
+Projeto em evolução para **coleta e análise de custos AWS com Python e Boto3**. A arquitetura separa cálculos determinísticos da interpretação assistida por modelos de IA, com foco em relatórios, rastreabilidade e boas práticas de FinOps.
 
-| Área | Tecnologias e conceitos |
-|---|---|
-| **Backend** | Python, FastAPI (em estudo), APIs REST, HTTP, JSON, validação, testes |
+**Áreas:** Python · AWS · Boto3 · FinOps · integração de LLMs
+
+### 🖥️ [Local-to-Cloud Diagnostic Gateway](https://github.com/AirtonNettu/Local-to-Cloud-Diagnostic-Gateway)
+
+Projeto de diagnóstico de sistemas locais e **sincronização com serviços em nuvem**, explorando coleta offline, persistência, APIs e integração AWS. A experiência de operação e o dashboard seguem como frentes de evolução.
+
+**Áreas:** Python · Windows · APIs · SQLite · AWS · arquitetura distribuída
+
+### 🐍 [Estudos de Python](https://github.com/AirtonNettu/python-freecodecamp)
+
+Exercícios de lógica, fundamentos da linguagem e resolução de problemas, como parte da formação contínua em desenvolvimento de software.
+
+---
+
+## Stack e interesses técnicos
+
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Backend** | Python, FastAPI, APIs REST, HTTP, JSON, validação e testes |
+| **Engenharia de IA** | LLMs, Ollama, tokens, embeddings, RAG, MCP, agentes e avaliação — em aprofundamento |
 | **Cloud** | AWS, IAM, EC2, S3, Lambda, CloudWatch, redes e custos |
-| **Engenharia de Software** | Git, GitHub, requisitos, SPEC, arquitetura, ADRs, documentação e CI/CD |
-| **IA aplicada (em estudo)** | LLMs, prompts, RAG, MCP, agentes, orquestração e avaliação de respostas |
-| **Infraestrutura e segurança** | Linux, redes, Docker, troubleshooting e fundamentos de AppSec |
+| **Frontend** | React, TypeScript, Vite e interfaces responsivas |
+| **Qualidade e entrega** | Git, GitHub, CI/CD, GitHub Actions, Vitest, Playwright, documentação, requisitos e ADRs |
+| **Infraestrutura e segurança** | Linux, Docker, redes, troubleshooting e fundamentos de AppSec |
 
-## 📚 Formação e desenvolvimento
+Meu princípio de desenvolvimento: **usar IA para acelerar a implementação sem abrir mão da compreensão do código, dos testes e da revisão humana.**
 
-- **AWS re/Start — Escola da Nuvem:** formação em andamento, com estudos de AWS, Linux, redes, segurança, bancos de dados e Python.
-- **Preparação para AWS Certified Cloud Practitioner:** em andamento; **não é uma certificação já obtida**.
-- **Desenvolvimento AI Native: Copilot, MCP, Agentes, Tasks e Skills — Rocketseat:** curso de extensão de 3 horas concluído em outubro de 2026.
-- **Nano Course Engenharia de Software — FIAP:** curso concluído em 2026, conforme meu histórico de formação.
+## Formação e aprendizado contínuo
+
+- **AWS re/Start — Escola da Nuvem:** formação em andamento em cloud, Linux, redes, segurança, bancos de dados e Python.
+- **AWS Certified Cloud Practitioner:** preparação em andamento; certificação ainda não obtida.
+- **Desenvolvimento AI Native: Copilot, MCP, Agentes, Tasks e Skills — Rocketseat:** extensão concluída em outubro de 2026.
+- **Nano Course Engenharia de Software — FIAP:** concluído em 2026.
 - **Fundamentos de TI: Hardware e Software — Fundação Bradesco:** concluído em 2026.
 
-## Credenciais AWS
+### Credenciais e atividades AWS
 
 <p align="center">
   <a href="https://www.credly.com/badges/35032bd4-d155-4b30-8779-55abdfc6a6cc/public_url">
@@ -66,24 +89,16 @@ Exercícios e estudos de fundamentos de Python, lógica de programação e resol
   <img src="https://img.shields.io/badge/AWS_SimuLearn-Cloud_Practitioner_Trained-555A89?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SimuLearn Cloud Practitioner Trained">
 </p>
 
-<sub>As três conquistas da segunda linha estão identificadas por etiquetas gráficas temporárias. As imagens originais e seus links individuais de verificação ainda precisam ser associados. Badges de treinamento e participação não equivalem a certificações AWS obtidas por exame.</sub>
+<sub>As três etiquetas da segunda linha são representações gráficas temporárias; ainda faltam os links individuais de verificação. Treinamentos e atividades não equivalem a certificações AWS obtidas por exame.</sub>
 
-Também sou membro da **AWS Educate Emerging Talent Community**.
-
-
-## 📌 O que estou estudando agora
-
-- Consolidação de fundamentos de **Python e desenvolvimento Backend**;
-- Preparação para a **AWS Certified Cloud Practitioner**;
-- **FastAPI, APIs, testes e arquitetura de software**;
-- Fundamentos de **LLMs, RAG, MCP, agentes e integração de IA**;
-- Segurança de aplicações, GitHub Actions e boas práticas de engenharia.
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/jose-airton-cloud)
-- [Repositórios e projetos](https://github.com/AirtonNettu?tab=repositories)
+Membro da **AWS Educate Emerging Talent Community**.
 
 ---
 
-*Aprendizado contínuo, projetos reais e evolução técnica documentada.*
+## Vamos conectar?
+
+Tenho interesse em colaborar em projetos open-source, trocar experiências técnicas e conhecer oportunidades de desenvolvimento Backend e Engenharia de IA.
+
+**[LinkedIn](https://www.linkedin.com/in/jose-airton-cloud)** · **[Portfólio](https://portfolio-airton-netto.pages.dev/)** · **[IA Engineer Academy](https://ai-engineering-academy-3cy.pages.dev/)**
+
+*Aprendizado contínuo, software verificável e evolução técnica documentada.*
