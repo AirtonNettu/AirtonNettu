@@ -67,6 +67,16 @@ Exercícios e estudos de fundamentos de Python, lógica de programação e resol
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Well--Architected-Proficient-008F95?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Well-Architected Proficient">
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS-General_Immersion_Day-1DBE8A?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS General Immersion Day Participant">
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS_SimuLearn-Cloud_Practitioner_Trained-555A89?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SimuLearn Cloud Practitioner Trained">
+</p>
+
+<sub>As três conquistas da segunda linha estão identificadas por etiquetas gráficas temporárias. As imagens originais e seus links individuais de verificação ainda precisam ser associados. Badges de treinamento e participação não equivalem a certificações AWS obtidas por exame.</sub>
+
 Também sou membro da **AWS Educate Emerging Talent Community**.
 
 
