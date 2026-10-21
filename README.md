@@ -14,41 +14,83 @@ Busco minha primeira oportunidade profissional em desenvolvimento Backend e sigo
 
 ---
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
-### 🧠 [IA Engineer Academy](https://github.com/AirtonNettu/ai-engineering-academy-) · Open source
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Acessar a plataforma](https://ai-engineering-academy-3cy.pages.dev/)**
+### 🧠 [IA Engineer Academy](https://github.com/AirtonNettu/ai-engineering-academy-)
 
-Plataforma educacional gratuita, aberta e em português para estudar **Engenharia de Inteligência Artificial** — da teoria e dos artigos técnicos à arquitetura e aos experimentos executáveis.
+**Plataforma educacional open source em português.**
 
-- **15 capítulos** em diferentes níveis de aprofundamento, trilhas de estudo e glossário interligado.
-- **Laboratórios interativos com cálculos reais no navegador:** treinamento de rede neural XOR, mecanismo de atenção e similaridade de embeddings.
-- **45 flashcards** com revisão espaçada, quatro roadmaps profissionais e cinco diagramas de arquitetura interativos.
-- Interface responsiva, temas claro/escuro e progresso armazenado localmente, sem cadastro.
-- **Engenharia:** React, TypeScript, Vite, testes com Vitest e Playwright, validação editorial e GitHub Actions.
+15 capítulos, 45 flashcards, quatro roadmaps e cinco diagramas interativos. Laboratórios no navegador para XOR, atenção e embeddings.
 
-**Código aberto para estudo e contribuição:** [repositório](https://github.com/AirtonNettu/ai-engineering-academy-) · [guia de contribuição](https://github.com/AirtonNettu/ai-engineering-academy-/blob/main/CONTRIBUTING.md)
+**Stack:** React · TypeScript · Vite · Vitest · Playwright
 
-### ☁️ [AWS Cost Monitor — FinOps com IA](https://github.com/AirtonNettu/aws-cost-monitor)
+[🌐 Plataforma](https://ai-engineering-academy-3cy.pages.dev/) · [📖 Código](https://github.com/AirtonNettu/ai-engineering-academy-) · [🤝 Contribuir](https://github.com/AirtonNettu/ai-engineering-academy-/blob/main/CONTRIBUTING.md)
 
-Projeto em evolução para **coleta e análise de custos AWS com Python e Boto3**. A arquitetura separa cálculos determinísticos da interpretação assistida por modelos de IA, com foco em relatórios, rastreabilidade e boas práticas de FinOps.
+</td>
+<td width="50%" valign="top">
 
-**Áreas:** Python · AWS · Boto3 · FinOps · integração de LLMs
+### ☁️ [AWS Cost Monitor](https://github.com/AirtonNettu/aws-cost-monitor)
+
+**FinOps com Python e interpretação assistida por IA.**
+
+Projeto em evolução para coleta de custos com Boto3, análises determinísticas e relatórios interpretados por modelos de IA.
+
+**Stack:** Python · AWS · Boto3 · FinOps · LLMs
+
+[📖 Explorar repositório](https://github.com/AirtonNettu/aws-cost-monitor)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🖥️ [Local-to-Cloud Diagnostic Gateway](https://github.com/AirtonNettu/Local-to-Cloud-Diagnostic-Gateway)
 
-Projeto de diagnóstico de sistemas locais e **sincronização com serviços em nuvem**, explorando coleta offline, persistência, APIs e integração AWS. A experiência de operação e o dashboard seguem como frentes de evolução.
+**Diagnóstico local e sincronização com a nuvem.**
 
-**Áreas:** Python · Windows · APIs · SQLite · AWS · arquitetura distribuída
+Explora coleta offline, persistência, APIs e serviços AWS. Operação e dashboard seguem em evolução.
+
+**Stack:** Python · Windows · SQLite · APIs · AWS
+
+[📖 Explorar repositório](https://github.com/AirtonNettu/Local-to-Cloud-Diagnostic-Gateway)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🐍 [Estudos de Python](https://github.com/AirtonNettu/python-freecodecamp)
 
-Exercícios de lógica, fundamentos da linguagem e resolução de problemas, como parte da formação contínua em desenvolvimento de software.
+**Aprendizado prático e progressivo.**
 
----
+Exercícios de lógica, fundamentos de Python, funções e resolução de problemas, documentando minha evolução em programação.
 
-## Stack e interesses técnicos
+**Foco:** Python · lógica · fundamentos
+
+[📖 Explorar repositório](https://github.com/AirtonNettu/python-freecodecamp)
+
+</td>
+</tr>
+</table>
+
+## 🧰 Stack e interesses técnicos
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+> 🎯 **Foco atual:** praticar Python, lógica de programação, funções e desenvolvimento Backend. IA aplicada e Cloud fazem parte da minha trajetória de aprendizado.
+
+<details>
+<summary><strong>🔎 Ver tecnologias e práticas por área</strong></summary>
 
 | Área | Tecnologias e práticas |
 | --- | --- |
@@ -59,9 +101,11 @@ Exercícios de lógica, fundamentos da linguagem e resolução de problemas, com
 | **Qualidade e entrega** | Git, GitHub, CI/CD, GitHub Actions, Vitest, Playwright, documentação, requisitos e ADRs |
 | **Infraestrutura e segurança** | Linux, Docker, redes, troubleshooting e fundamentos de AppSec |
 
+</details>
+
 Meu princípio de desenvolvimento: **usar IA para acelerar a implementação sem abrir mão da compreensão do código, dos testes e da revisão humana.**
 
-## Formação e aprendizado contínuo
+## 🎓 Formação e aprendizado contínuo
 
 - **AWS re/Start — Escola da Nuvem:** formação em andamento em cloud, Linux, redes, segurança, bancos de dados e Python.
 - **AWS Certified Cloud Practitioner:** preparação em andamento; certificação ainda não obtida.
@@ -69,7 +113,7 @@ Meu princípio de desenvolvimento: **usar IA para acelerar a implementação sem
 - **Nano Course Engenharia de Software — FIAP:** concluído em 2026.
 - **Fundamentos de TI: Hardware e Software — Fundação Bradesco:** concluído em 2026.
 
-### Credenciais e atividades AWS
+### 🏅 Credenciais e atividades AWS
 
 <p align="center">
   <a href="https://www.credly.com/badges/35032bd4-d155-4b30-8779-55abdfc6a6cc/public_url">
@@ -99,7 +143,19 @@ Membro da **AWS Educate Emerging Talent Community**.
 
 ---
 
-## Vamos conectar?
+## 📊 Atividade no GitHub
+
+<p align="center">
+  <a href="https://github.com/AirtonNettu?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirtonNettu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Linguagens públicas mais presentes nos repositórios de AirtonNettu" height="165" />
+  </a>
+</p>
+
+<sub>As estatísticas são geradas por um serviço externo e podem ficar temporariamente indisponíveis. Linguagens mais frequentes não representam necessariamente nível de domínio.</sub>
+
+---
+
+## 🤝 Vamos conectar?
 
 Tenho interesse em colaborar em projetos open-source, trocar experiências técnicas e conhecer oportunidades de desenvolvimento Backend e Engenharia de IA.
 
