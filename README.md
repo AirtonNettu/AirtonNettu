@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile/particle-morph.svg" alt="Partículas formando símbolos de código, rede neural, cubo cloud, chip de IA e chaves" width="760" />
+</p>
+
 # José Airton | Backend Python · AI Engineering · AWS
 
 **Construindo aplicações, integrações e experiências de aprendizado com engenharia de software, cloud e inteligência artificial.**
