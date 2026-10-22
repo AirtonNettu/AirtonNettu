@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/profile/particle-morph.svg" alt="Partículas formando símbolos de código, rede neural, cubo cloud, chip de IA e chaves" width="760" />
+  <img src="assets/profile/particle-morph.svg" alt="Animação de partículas formando símbolos de código, rede neural, cloud e IA" width="100%" />
 </p>
 
-# José Airton | Backend Python · AI Engineering · AWS
+<h1 align="center">José Airton | Backend Python · AI Engineering · AWS</h1>
+
+<p align="center"><strong>SOFTWARE • PYTHON • AI • CLOUD</strong></p>
 
 **Construindo aplicações, integrações e experiências de aprendizado com engenharia de software, cloud e inteligência artificial.**
 
@@ -10,7 +12,26 @@ Sou desenvolvedor em formação, com foco em **Backend Python e APIs**, integra�
 
 Busco minha primeira oportunidade profissional em desenvolvimento Backend e sigo aprofundando minha atuação em **AI Application Engineering**.
 
-[**Portfólio**](https://portfolio-airton-netto.pages.dev/) · [**LinkedIn**](https://www.linkedin.com/in/jose-airton-cloud) · [**Projetos no GitHub**](https://github.com/AirtonNettu?tab=repositories)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Cloud-2563EB?style=for-the-badge&logoColor=white" alt="Cloud" />
+</p>
+
+<table>
+<tr>
+<td align="center" width="33%"><strong>🚀 <a href="https://github.com/AirtonNettu?tab=repositories">Projetos em destaque</a></strong><br/><sub>Aplicações e laboratórios</sub></td>
+<td align="center" width="34%"><strong>🎓 <a href="#-formação-e-aprendizado-contínuo">Minha jornada</a></strong><br/><sub>Estudos e certificações</sub></td>
+<td align="center" width="33%"><strong>🤝 <a href="https://www.linkedin.com/in/jose-airton-cloud">Conecte-se</a></strong><br/><sub>Vamos trocar ideias</sub></td>
+</tr>
+</table>
+
+<p align="center"><a href="https://portfolio-airton-netto.pages.dev/">Portfólio</a> · <a href="https://www.linkedin.com/in/jose-airton-cloud">LinkedIn</a> · <a href="https://github.com/AirtonNettu?tab=repositories">GitHub</a></p>
 
 ---
 
