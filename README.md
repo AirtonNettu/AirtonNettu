@@ -61,15 +61,15 @@ Explora coleta offline, persistência, APIs e serviços AWS. Operação e dashbo
 </td>
 <td width="50%" valign="top">
 
-### 🐍 [Estudos de Python](https://github.com/AirtonNettu/python-freecodecamp)
+### ⚙️ [Reusable AI Backend Architecture](https://github.com/AirtonNettu/reusable-ai-backend-architecture)
 
-**Aprendizado prático e progressivo.**
+**Infraestrutura reutilizável para aplicações de IA.**
 
-Exercícios de lógica, fundamentos de Python, funções e resolução de problemas, documentando minha evolução em programação.
+AI Core e Gateway desacoplados, persistência PostgreSQL, segurança multilocatária e observabilidade. 159 testes aprovados no CI com PostgreSQL real.
 
-**Foco:** Python · lógica · fundamentos
+**Stack:** Python 3.13 · FastAPI · PostgreSQL 17 · Docker · OpenTelemetry
 
-[📖 Explorar repositório](https://github.com/AirtonNettu/python-freecodecamp)
+[📖 Código e arquitetura](https://github.com/AirtonNettu/reusable-ai-backend-architecture) · [📘 Caderno técnico](https://github.com/AirtonNettu/reusable-ai-backend-architecture/blob/main/docs/caderno_tecnico.md)
 
 </td>
 </tr>
@@ -140,18 +140,6 @@ Meu princípio de desenvolvimento: **usar IA para acelerar a implementação sem
 <sub>As três etiquetas da segunda linha são representações gráficas temporárias; ainda faltam os links individuais de verificação. Treinamentos e atividades não equivalem a certificações AWS obtidas por exame.</sub>
 
 Membro da **AWS Educate Emerging Talent Community**.
-
----
-
-## 📊 Atividade no GitHub
-
-<p align="center">
-  <a href="https://github.com/AirtonNettu?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirtonNettu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Linguagens públicas mais presentes nos repositórios de AirtonNettu" height="165" />
-  </a>
-</p>
-
-<sub>As estatísticas são geradas por um serviço externo e podem ficar temporariamente indisponíveis. Linguagens mais frequentes não representam necessariamente nível de domínio.</sub>
 
 ---
 
